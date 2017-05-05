@@ -1,0 +1,12 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\bin\Debug\Kuis2DataStructure.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\bin\Debug\Kuis2DataStructure.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\bin\Debug\Kuis2DataStructure.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\bin\Debug\Kuis2DataStructure.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.View.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Kuis2DataStructure\Kuis2DataStructure\obj\Debug\Kuis2DataStructure.uas.resources

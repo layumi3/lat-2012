@@ -1,0 +1,10 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\bin\Debug\compspeak.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\bin\Debug\compspeak.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\bin\Debug\compspeak.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\bin\Debug\compspeak.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\obj\Debug\compspeak.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\obj\Debug\compspeak.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\obj\Debug\compspeak.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\obj\Debug\compspeak.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\obj\Debug\compspeak.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\compspeak\compspeak\obj\Debug\compspeak.pdb

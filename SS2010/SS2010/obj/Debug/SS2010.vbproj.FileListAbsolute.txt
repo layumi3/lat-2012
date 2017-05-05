@@ -1,0 +1,12 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\bin\Debug\SS2010.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\bin\Debug\SS2010.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\bin\Debug\SS2010.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\bin\Debug\SS2010.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.Form2.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\SS2010\SS2010\obj\Debug\SS2010.kalkulatorPintar.resources

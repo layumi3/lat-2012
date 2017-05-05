@@ -1,0 +1,13 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\bin\Debug\UTS-DataStructure.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\bin\Debug\UTS-DataStructure.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\bin\Debug\UTS-DataStructure.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\bin\Debug\UTS-DataStructure.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS_DataStructure.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS_DataStructure.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS-DataStructure.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS-DataStructure.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS-DataStructure.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS-DataStructure.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS_DataStructure.Form2.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS_DataStructure.daftarBukuMini.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\UTS-DataStructure\UTS-DataStructure\obj\Debug\UTS_DataStructure.matema.resources

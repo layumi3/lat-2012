@@ -1,0 +1,16 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\bin\Debug\DataREcord.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\bin\Debug\DataREcord.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\bin\Debug\DataREcord.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\bin\Debug\DataREcord.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.FormIsi.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.kusi.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.MyBirth.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.ArrayClassSorts.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.Form2.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\DataREcord\DataREcord\obj\Debug\DataREcord.Form3.resources

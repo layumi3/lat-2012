@@ -1,0 +1,11 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\bin\Debug\Registrasi.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\bin\Debug\Registrasi.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\bin\Debug\Registrasi.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\bin\Debug\Registrasi.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\Registrasi\Registrasi\obj\Debug\Registrasi.radio.resources

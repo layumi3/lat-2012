@@ -1,0 +1,10 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\bin\Debug\utsvp.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\bin\Debug\utsvp.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\bin\Debug\utsvp.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\bin\Debug\utsvp.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\obj\Debug\utsvp.FrmTiket.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\obj\Debug\utsvp.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\obj\Debug\utsvp.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\obj\Debug\utsvp.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\obj\Debug\utsvp.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\utsvp\utsvp\obj\Debug\utsvp.pdb

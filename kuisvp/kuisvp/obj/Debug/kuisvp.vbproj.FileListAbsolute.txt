@@ -1,0 +1,24 @@
+D:\aso_project_tbo\kuisvp\kuisvp\bin\Debug\kuisvp.exe.config
+D:\aso_project_tbo\kuisvp\kuisvp\bin\Debug\kuisvp.exe
+D:\aso_project_tbo\kuisvp\kuisvp\bin\Debug\kuisvp.pdb
+D:\aso_project_tbo\kuisvp\kuisvp\bin\Debug\kuisvp.xml
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.Form1.resources
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.Form2.resources
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.Form3.resources
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.Resources.resources
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.vbproj.GenerateResource.Cache
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.exe
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.xml
+D:\aso_project_tbo\kuisvp\kuisvp\obj\Debug\kuisvp.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\bin\Debug\kuisvp.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\bin\Debug\kuisvp.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\bin\Debug\kuisvp.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\bin\Debug\kuisvp.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.Form2.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.Form3.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\kuisvp\kuisvp\obj\Debug\kuisvp.vbproj.GenerateResource.Cache

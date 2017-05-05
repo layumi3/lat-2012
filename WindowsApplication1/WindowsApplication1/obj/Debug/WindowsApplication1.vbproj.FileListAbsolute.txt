@@ -1,0 +1,12 @@
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\LA-CORP\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.kuis.resources
